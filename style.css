@@ -1,0 +1,29 @@
+body {
+  background-image: linear-gradient(to bottom, #69326d, #232749);
+}
+
+h1 {
+  font-size: 48px;
+  color: white;
+}
+
+.center {
+  height: 100vh;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+p {
+  font-size: 24px;
+}
+
+a {
+  color: lightgoldenrodyellow;
+}
+
+a:visited {
+  color: grey;
+}
